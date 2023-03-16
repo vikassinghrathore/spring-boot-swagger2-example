@@ -1,0 +1,4 @@
+com\vks\SpringBootSwagger2ExampleApplication.class
+com\vks\controller\Swagger2RestController.class
+com\vks\model\User.class
+com\vks\config\Swagger2Config.class
